@@ -94,7 +94,7 @@ but all visuals support interactive filtering in Power BI.*
 ---
 
 ## 📷 Dashboard Screenshot
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/hotel_bookings_dashboard.png)
 
 ---
 
