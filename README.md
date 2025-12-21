@@ -105,7 +105,6 @@ but all visuals support interactive filtering in Power BI.*
 
 ---
 
-## 📬 Contact
-- GitHub: (your GitHub URL)
-- LinkedIn: (optional)
-- Email: (optional)
+## ✍ Author
+Yoshihiro Tsunoda  
+2025-12-21
