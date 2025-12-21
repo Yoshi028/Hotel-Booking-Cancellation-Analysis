@@ -94,7 +94,17 @@ but all visuals support interactive filtering in Power BI.*
 ---
 
 ## 📷 Dashboard Screenshot
-![Dashboard Overview](screenshots/hotel_bookings_dashboard.png)
+### 1. Overall Dashboard
+![Overall Dashboard](screenshots/dashboard_overview.png)
+
+### 2. Distribution of Lead Time
+![Lead Time Distribution](screenshots/lead_time_distribution.png)
+
+### 3. Cancellation Rate by Market Segment
+![Cancellation Rate by Segment](screenshots/cancellation_by_segment.png)
+
+### 4. Lead Time Group × Market Segment × Cancellation Rate
+![Lead Time Matrix](screenshots/lead_time_segment_matrix.png)
 
 ---
 
