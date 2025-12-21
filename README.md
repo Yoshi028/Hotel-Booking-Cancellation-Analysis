@@ -94,7 +94,7 @@ but all visuals support interactive filtering in Power BI.*
 ---
 
 ## 📷 Dashboard Screenshot
-(Insert Power BI dashboard screenshots here)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ---
 
