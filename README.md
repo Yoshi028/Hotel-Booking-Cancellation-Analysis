@@ -47,6 +47,36 @@ The following steps were applied to prepare the data:
 
 ---
 
+## 🛢 SQL Analysis (BigQuery)
+
+SQL was used to prepare aggregated tables for dashboard analysis.
+
+Created SQL scripts:
+- 01_bookings_by_market_segment.sql
+- 02_cancellation_rate_by_market_segment.sql
+- 03_cancellation_rate_by_lead_time_group.sql
+- 04_cancellation_rate_by_lead_time_group_and_market_segment.sql
+
+These queries were designed to directly support Power BI visualizations
+and reduce the need for complex DAX calculations.
+
+---
+
+## 📷 Dashboard Screenshot
+### 1. Overall Dashboard
+![Overall Dashboard](screenshots/dashboard_overview.png)
+
+### 2. Distribution of Lead Time
+![Lead Time Distribution](screenshots/lead_time_distribution.png)
+
+### 3. Cancellation Rate by Market Segment
+![Cancellation Rate by Segment](screenshots/cancellation_by_segment.png)
+
+### 4. Lead Time Group × Market Segment × Cancellation Rate
+![Lead Time Matrix](screenshots/lead_time_segment_matrix.png)
+
+---
+
 ## 📊 Dashboard Components
 
 ### KPI Cards
@@ -90,21 +120,6 @@ but all visuals support interactive filtering in Power BI.*
 - **SQL / BigQuery**
 - **Power BI**
 - **GitHub**
-
----
-
-## 📷 Dashboard Screenshot
-### 1. Overall Dashboard
-![Overall Dashboard](screenshots/dashboard_overview.png)
-
-### 2. Distribution of Lead Time
-![Lead Time Distribution](screenshots/lead_time_distribution.png)
-
-### 3. Cancellation Rate by Market Segment
-![Cancellation Rate by Segment](screenshots/cancellation_by_segment.png)
-
-### 4. Lead Time Group × Market Segment × Cancellation Rate
-![Lead Time Matrix](screenshots/lead_time_segment_matrix.png)
 
 ---
 
