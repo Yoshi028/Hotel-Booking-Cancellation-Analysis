@@ -143,4 +143,4 @@ but all visuals support interactive filtering in Power BI.*
 
 ## ✍ Author
 Yoshihiro Tsunoda  
-2025-12-21
+2025-12-23
