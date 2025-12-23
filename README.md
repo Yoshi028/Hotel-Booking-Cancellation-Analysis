@@ -62,6 +62,17 @@ and reduce the need for complex DAX calculations.
 
 ---
 
+## 📊 Python Visualization
+
+The following Python scripts were created for exploratory data analysis and visualization:
+
+- Distribution of Lead Time
+- Bookings by Market Segment
+- Cancellation Rate by Market Segment
+- Cancellation Rate by Lead Time Group and Market Segment
+
+---
+
 ## 📷 Dashboard Screenshot
 ### 1. Overall Dashboard
 ![Overall Dashboard](screenshots/dashboard_overview.png)
