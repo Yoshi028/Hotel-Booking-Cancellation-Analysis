@@ -1,13 +1,9 @@
 # 🏨 Hotel Booking Analysis Dashboard (Power BI)
 
 ## 📌 Overview
-This project analyzes hotel booking data to identify  
-**booking patterns and cancellation risk factors**,  
-and presents insights through an interactive **Power BI dashboard**.
-
-The project follows an end-to-end analytics workflow, including  
-data cleaning, exploratory data analysis (EDA), insight generation,  
-and visualization, with a strong focus on practical, business-oriented analysis.
+This project analyzes hotel booking and cancellation behavior to identify
+patterns in lead time, market segments, and cancellation risk.
+The analysis was conducted using BigQuery (SQL), Python, and Power BI.
 
 ---
 
